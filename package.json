@@ -1,0 +1,11 @@
+{
+  "name": "CodeAc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cchampou/CodeAc.git",
+  "author": "cchampou <clement@champouillon.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^8.2.0"
+  }
+}
